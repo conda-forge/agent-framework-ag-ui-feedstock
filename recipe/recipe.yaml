@@ -24,7 +24,7 @@ requirements:
     - hatchling
   run:
     - python >=${{ python_min }}
-    - agent-framework-core <2,>=1.4.0
+    - agent-framework-core <2,>=1.6.0
     - ag-ui-protocol <0.2,>=0.1.16
     - fastapi <0.133.1,>=0.115.0
     - uvicorn <0.42.0,>=0.30.0
